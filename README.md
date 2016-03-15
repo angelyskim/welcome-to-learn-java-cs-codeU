@@ -10,10 +10,10 @@ The other main tool that real developers use is source control. Here on Learn we
 
   1. Fork the repository
   2. Clone your fork down to your local machine
-  3. Work, work, work. As you need to run the tests, run either `learn` for OSX and Linux, or `learn-test` for Windows. This will run the tests as well as submit your results up to Learn.
+  3. Work, work, work. As you need to run the tests, run either `learn` for OS X and Linux, or `learn-test` for Windows. This will run the tests as well as submit your results up to Learn.
   4. When you get all the tests to pass, push your code up, and submit a pull request.
 
-If you are on OSX or Linux, most of this will be done for you using the `learn` tool. We'll cover more about the `learn` tool in future lessons after your environment is setup though.
+If you are on OS X or Linux, most of this will be done for you using the `learn` tool. We'll cover more about the `learn` tool in future lessons after your environment is setup though.
 
 ## What We Expect You Already Know
 
@@ -23,7 +23,7 @@ Other than that, we expect that you are already a developer. You've written Java
 
 ## A Note On Using IDEs 
 
-All of the content will work fine if you want to use an IDE to code your Java. Truth is though, if you are using this content as interview prep, **you won't have an IDE in an interview**. We highly recommend using a text editor to write your code. Then, to compile/test your code, just run `ant test` or `learn` on OSX/Linux or `learn-test` on Windows.
+All of the content will work fine if you want to use an IDE to code your Java. Truth is though, if you are using this content as interview prep, **you won't have an IDE in an interview**. We highly recommend using a text editor to write your code. Then, to compile/test your code, just run `ant test` or `learn` on OS X/Linux or `learn-test` on Windows.
 
 In summary, **don't use an IDE**. A text editor is way closer to the whiteboarding that you'll be doing in interviews.
 
