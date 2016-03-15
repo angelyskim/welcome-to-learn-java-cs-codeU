@@ -6,7 +6,7 @@ Hello! Welcome to Learn. Learn is a Learning Management System. While that sound
 
 Learn uses real tools. That means we don't have students coding in the browser, we don't have small games or quizzes — we just have you, a text editor, and a set of failing tests that you need to pass. Every lab comes with a set of directions as well as a set of tests that you need to pass. Real developers use [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development). So you will too. For this track we use JUnit and Hamcrest for testing.
 
-The other main tool that real developers use is source control. Here on Learn we use Git and Github. We use the same flow that most other Open Source projects use to contribute code. Throughout this course, we assume you know how to use Git. If you don't, check out [this awesome tutorial from GitHub](https://try.github.io). The basic flow for working on and submitting labs on Learn is:
+The other main tool that real developers use is source control. Here on Learn we use Git and GitHub. We use the same flow that most other Open Source projects use to contribute code. Throughout this course, we assume you know how to use Git. If you don't, check out [this awesome tutorial from GitHub](https://try.github.io). The basic flow for working on and submitting labs on Learn is:
 
   1. Fork the repository
   2. Clone your fork down to your local machine
